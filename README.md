@@ -1,12 +1,11 @@
-# <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> Hi! This is heyanle.
+# <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> Hi! This is DullFan.
 
-Email: <a href="mailto:heyanle.lin@qq.com">heyanle.lin@qq.com</a>  
-Blog: <a href="https://heyanle.com">何言的杂货店</a>
+Email: <a href="mailto:dullfan@qq.com">dullfan@qq.com</a>  
+Blog: <a href="https://blog.csdn.net/weixin_51298509?spm=1010.2135.3001.5343">DullFan的小知识</a>
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
 
-- 🏫 Student at **Guangdong University of Technology**
-- 🏠 Internship in **Tencent Music Entertainment Group**
--  📱 **Android App Development Engineer**
-- ❤️ I like 🧩**acgn(Anim, Comic, Game, Novel)** and 🎸**guitar**
+- 📱 **Android App Development Engineer**
+- ❤️ I like 🧩**Anim, Comic, Game, Novel**
 - 💻 Coding is my passion
+- 👯 I’m looking to collaborate on open source
