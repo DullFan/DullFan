@@ -7,6 +7,6 @@
 - 📫 How to reach me: QQ,WeChat
 
 Email: <a href="mailto:dullfan@qq.com">dullfan@qq.com</a>  
-Blog: <a href="https://github.com/DullFan/AndroidLearningJourney">DullFan的小知识</a>
-QQ: 2928527233
-WeChat: F292852
+Blog: <a href="https://github.com/DullFan/AndroidLearningJourney">DullFan的小知识</a>  
+QQ: 2928527233  
+WeChat: F292852  
